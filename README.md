@@ -28,6 +28,7 @@ I'm a software developer based in Szczecin PL, specializing in building responsi
 - 👨‍🔬&nbsp;&nbsp;Testing:&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://jestjs.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Jest-0A1A2F?style=flat&logo=Jest"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Jest-white?style=flat&logo=Jest&logoColor=black"><img alt="Jest" src="https://img.shields.io/badge/Jest-99435C?style=flat&logo=Jest&logoColor=white"></picture></a>
 <a href="https://testing-library.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React%20Testing%20Library-0A1A2F?style=flat&logo=testing-library&logoColor=F23D3D"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/React%20Testing%20Library-white?style=flat&logo=testing-library&logoColor=F23D3D"><img alt="React Testing Library" src="https://img.shields.io/badge/React%20Testing%20Library-26292F?style=flat&logo=testing-library&logoColor=F23D3D"></picture></a>
+<a href="https://vitest.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Vitest-0A1A2F?style=flat&logo=vitest&logoColor=00FF74"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Vitest-white?style=flat&logo=vitest&logoColor=00FF74"><img alt="Vitest" src="https://img.shields.io/badge/Vitest-26292F?style=flat&logo=vitest&logoColor=00FF74"></picture></a>
 
 <!--## BACKUP
 
